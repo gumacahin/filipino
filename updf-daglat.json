@@ -1,153 +1,604 @@
 {
-  "Abk"     : "Abaknon",
-  "Aby"     : "Abyan",
-  "Aer"     : "Aeronautika",
-  "Agr"     : "Agrikultura",
-  "Agt"     : "Agta, Aeta, Ayta, Baluga, Ita, Negrito",
-  "Agu"     : "Agutayanen",
-  "AM"      : "Agusanon–Manobo",
-  "Ana"     : "Anatomiya",
-  "Ant"     : "Antropolohiya",
-  "Ata"     : "Ata",
-  "Apa"     : "Apayaw",
-  "Ara"     : "Arabiko",
-  "Ark"     : "Arkitektura",
-  "Asn"     : "Astronomiya",
-  "Ayt–Mbk" : "Ayta–Magbubukun",
-  "Ayt–Mgk" : "Ayta–Magkunana",
-  "Bb"      : "Binibini",
-  "Bag"     : "Bagobo",
-  "Baj"     : "Bajaw",
-  "Bal"     : "Balangaw",
-  "Ban"     : "Bantoanan",
-  "Bat"     : "Batas",
-  "Bgo"     : "Bago (Bago Igorot)",
-  "Bik"     : "Bikol",
-  "Bil"     : "Bilaan",
-  "Bio"     : "Biyolohiya",
-  "BioK"    : "Biyokemistri",
-  "Bis"     : "Bisaya",
-  "Bon"     : "Bontoc",
-  "Bot"     : "Botanika",
-  "Btk"     : "Batak",
-  "Buh"     : "Buhid",
-  "Bun"     : "Buntuanon",
-  "Cf"      : "Confer",
-  "Cha"     : "Chabacano",
-  "Com"     : "Agham Computer",
-  "Cuy"     : "Cuyonen",
-  "Den"     : "Dentistry",
-  "Edu"     : "Edukasyon",
-  "Ekl"     : "Ekolohiya",
-  "Ekn"     : "Ekonomiks",
-  "Ele"     : "Elektrisidad",
-  "Esp"     : "Espanyol",
-  "Etn"     : "Etnolohiya",
-  "Fil"     : "Filipino",
-  "Fre"     : "French",
-  "G"       : "Ginoo",
-  "Gng"     : "Ginang",
-  "Gra"     : "Gramatika",
-  "Gri"     : "Griyego",
-  "hal"     : "halimbawa",
-  "Han"     : "Hanunuo",
-  "Heg"     : "Heograpiya",
-  "Heo"     : "Heolohiya",
-  "Hgn"     : "Higa–onon",
-  "Hil"     : "Hiligaynon",
-  "Iba"     : "Ibanag",
-  "Iby"     : "Ibaloy",
-  "Id"      : "idyomatiko",
-  "Ifu"     : "Ifugaw",
-  "Igo"     : "Igorot",
-  "Ilk"     : "Ilokano",
-  "Ilt"     : "Ilongot",
-  "Ing"     : "Ingles",
-  "Inh"     : "Inerhiya",
-  "Isn"     : "Isneg",
-  "Ita"     : "Italian",
-  "Itn"     : "Itneg",
-  "Iva"     : "Ivatan",
-  "Jr"      : "Junior",
-  "JM"      : "Jama Mapun",
-  "Kal"     : "Kalinga",
-  "Kan"     : "Kankanaey",
-  "Klg"     : "Kalagan",
-  "Kap"     : "Kapampangan",
-  "Kar"     : "Karpenteriya",
-  "Krw"     : "Karaw",
-  "Kem"     : "Kemistri",
-  "Kin"     : "Kinetikang Pantao",
-  "Kol"     : "kolokyal",
-  "Kom"     : "Komersiyo",
-  "Lat"     : "Latin",
-  "Lgw"     : "Lingguwistika",
-  "Lit"     : "Literatura",
-  "Mag"     : "Maguindanao",
-  "Mal"     : "Malay",
-  "Man"     : "Mangyan",
-  "Mat"     : "Matematika",
-  "Med"     : "Medesina",
-  "Mgn"     : "Mangguangan",
-  "Mil"     : "Militar",
-  "Mit"     : "Mitolohiya",
-  "Mmw"     : "Mamanua",
-  "Mnd"     : "Mandaya",
-  "Mnb"     : "Manobo",
-  "Mnb–Agu" : "Manobo Agusan",
-  "Mnb-Cot" : "Manobo Cotabato",
-  "Mns"     : "Mansaka",
-  "Mrw"     : "Maranaw",
-  "Mtl"     : "Metalurhiya",
-  "Mtr"     : "Meteorolohiya",
-  "Mus"     : "Musika",
-  "n g"     : "ng gabi",
-  "n h"     : "ng hapon",
-  "Nor"     : "Norse",
-  "n u"     : "ng umaga",
-  "Ntk"     : "Agham Nautika",
-  "Pal"     : "Palawan",
-  "Pan"     : "Pangasinan",
-  "p/mp"    : "pahina/mga pahina",
-  "pdd"     : "padamdam",
-  "Pil"     : "Pilosopiya",
-  "Pis"     : "Pisika",
-  "Por"     : "Portugese",
-  "pnb"     : "pang–abay",
-  "pnd"     : "pandiwa",
-  "png"     : "pangngalan",
-  "pnh"     : "panghalip",
-  "pnk"     : "pang–angkop",
-  "pnu"     : "pang–ukol",
-  "pnr"     : "pang–uri",
-  "pnt"     : "pangatnig",
-  "pnl"     : "panlapi",
-  "Psl"     : "Pisyolohiya",
-  "ptk"     : "pantukoy",
-  "San"     : "Sanskit",
-  "Say"     : "Sayaw",
-  "Sld"     : "Sulod",
-  "Seb"     : "Sebwano",
-  "Sik"     : "Sikolohiya",
-  "Sma"     : "Samal",
-  "Snk"     : "Sanskit",
-  "Sos"     : "Sosyolohiya",
-  "ST"      : "Sinaunang Tagalog",
-  "Sub"     : "Subanon",
-  "Swa"     : "Swahili",
-  "Tag"     : "Tagalog",
-  "Tbw"     : "Tagbanwa",
-  "Tau"     : "Tausug",
-  "Tbo"     : "Tiboli",
-  "Teo"     : "teohohiya",
-  "Tgk"     : "Tagakawlo",
-  "Tin"     : "Tinggian",
-  "Tir"     : "Tiruray",
-  "Tro"     : "Teatro",
-  "Tsi"     : "Tsino",
-  "Tua–Dus" : "Tuaran Dusun",
-  "var"     : "varyant",
-  "War"     : "Waray",
-  "Yak"     : "Yakan",
-  "Zoo"     : "Zoolohiya"
+  {
+    "abbr": "Abk",
+    "term": "Abaknon"
+  },
+  {
+    "abbr": "Aby",
+    "term": "Abyan"
+  },
+  {
+    "abbr": "Aer",
+    "term": "Aeronautika"
+  },
+  {
+    "abbr": "Agr",
+    "term": "Agrikultura"
+  },
+  {
+    "abbr": "Agt",
+    "term": "Agta, Aeta, Ayta, Baluga, Ita, Negrito"
+  },
+  {
+    "abbr": "Agu",
+    "term": "Agutayanen"
+  },
+  {
+    "abbr": "AM",
+    "term": "Agusanon–Manobo"
+  },
+  {
+    "abbr": "Ana",
+    "term": "Anatomiya"
+  },
+  {
+    "abbr": "Ant",
+    "term": "Antropolohiya"
+  },
+  {
+    "abbr": "Ata",
+    "term": "Ata"
+  },
+  {
+    "abbr": "Apa",
+    "term": "Apayaw"
+  },
+  {
+    "abbr": "Ara",
+    "term": "Arabiko"
+  },
+  {
+    "abbr": "Ark",
+    "term": "Arkitektura"
+  },
+  {
+    "abbr": "Asn",
+    "term": "Astronomiya"
+  },
+  {
+    "abbr": "Ayt–Mbk",
+    "term": "Ayta–Magbubukun"
+  },
+  {
+    "abbr": "Ayt–Mgk",
+    "term": "Ayta–Magkunana"
+  },
+  {
+    "abbr": "Bb",
+    "term": "Binibini"
+  },
+  {
+    "abbr": "Bag",
+    "term": "Bagobo"
+  },
+  {
+    "abbr": "Baj",
+    "term": "Bajaw"
+  },
+  {
+    "abbr": "Bal",
+    "term": "Balangaw"
+  },
+  {
+    "abbr": "Ban",
+    "term": "Bantoanan"
+  },
+  {
+    "abbr": "Bat",
+    "term": "Batas"
+  },
+  {
+    "abbr": "Bgo",
+    "term": "Bago (Bago Igorot)"
+  },
+  {
+    "abbr": "Bik",
+    "term": "Bikol"
+  },
+  {
+    "abbr": "Bil",
+    "term": "Bilaan"
+  },
+  {
+    "abbr": "Bio",
+    "term": "Biyolohiya"
+  },
+  {
+    "abbr": "BioK",
+    "term": "Biyokemistri"
+  },
+  {
+    "abbr": "Bis",
+    "term": "Bisaya"
+  },
+  {
+    "abbr": "Bon",
+    "term": "Bontoc"
+  },
+  {
+    "abbr": "Bot",
+    "term": "Botanika"
+  },
+  {
+    "abbr": "Btk",
+    "term": "Batak"
+  },
+  {
+    "abbr": "Buh",
+    "term": "Buhid"
+  },
+  {
+    "abbr": "Bun",
+    "term": "Buntuanon"
+  },
+  {
+    "abbr": "Cf",
+    "term": "Confer"
+  },
+  {
+    "abbr": "Cha",
+    "term": "Chabacano"
+  },
+  {
+    "abbr": "Com",
+    "term": "Agham Computer"
+  },
+  {
+    "abbr": "Cuy",
+    "term": "Cuyonen"
+  },
+  {
+    "abbr": "Den",
+    "term": "Dentistry"
+  },
+  {
+    "abbr": "Edu",
+    "term": "Edukasyon"
+  },
+  {
+    "abbr": "Ekl",
+    "term": "Ekolohiya"
+  },
+  {
+    "abbr": "Ekn",
+    "term": "Ekonomiks"
+  },
+  {
+    "abbr": "Ele",
+    "term": "Elektrisidad"
+  },
+  {
+    "abbr": "Esp",
+    "term": "Espanyol"
+  },
+  {
+    "abbr": "Etn",
+    "term": "Etnolohiya"
+  },
+  {
+    "abbr": "Fil",
+    "term": "Filipino"
+  },
+  {
+    "abbr": "Fre",
+    "term": "French"
+  },
+  {
+    "abbr": "G",
+    "term": "Ginoo"
+  },
+  {
+    "abbr": "Gng",
+    "term": "Ginang"
+  },
+  {
+    "abbr": "Gra",
+    "term": "Gramatika"
+  },
+  {
+    "abbr": "Gri",
+    "term": "Griyego"
+  },
+  {
+    "abbr": "hal",
+    "term": "halimbawa"
+  },
+  {
+    "abbr": "Han",
+    "term": "Hanunuo"
+  },
+  {
+    "abbr": "Heg",
+    "term": "Heograpiya"
+  },
+  {
+    "abbr": "Heo",
+    "term": "Heolohiya"
+  },
+  {
+    "abbr": "Hgn",
+    "term": "Higa–onon"
+  },
+  {
+    "abbr": "Hil",
+    "term": "Hiligaynon"
+  },
+  {
+    "abbr": "Iba",
+    "term": "Ibanag"
+  },
+  {
+    "abbr": "Iby",
+    "term": "Ibaloy"
+  },
+  {
+    "abbr": "Id",
+    "term": "idyomatiko"
+  },
+  {
+    "abbr": "Ifu",
+    "term": "Ifugaw"
+  },
+  {
+    "abbr": "Igo",
+    "term": "Igorot"
+  },
+  {
+    "abbr": "Ilk",
+    "term": "Ilokano"
+  },
+  {
+    "abbr": "Ilt",
+    "term": "Ilongot"
+  },
+  {
+    "abbr": "Ing",
+    "term": "Ingles"
+  },
+  {
+    "abbr": "Inh",
+    "term": "Inerhiya"
+  },
+  {
+    "abbr": "Isn",
+    "term": "Isneg"
+  },
+  {
+    "abbr": "Ita",
+    "term": "Italian"
+  },
+  {
+    "abbr": "Itn",
+    "term": "Itneg"
+  },
+  {
+    "abbr": "Iva",
+    "term": "Ivatan"
+  },
+  {
+    "abbr": "Jr",
+    "term": "Junior"
+  },
+  {
+    "abbr": "JM",
+    "term": "Jama Mapun"
+  },
+  {
+    "abbr": "Kal",
+    "term": "Kalinga"
+  },
+  {
+    "abbr": "Kan",
+    "term": "Kankanaey"
+  },
+  {
+    "abbr": "Klg",
+    "term": "Kalagan"
+  },
+  {
+    "abbr": "Kap",
+    "term": "Kapampangan"
+  },
+  {
+    "abbr": "Kar",
+    "term": "Karpenteriya"
+  },
+  {
+    "abbr": "Krw",
+    "term": "Karaw"
+  },
+  {
+    "abbr": "Kem",
+    "term": "Kemistri"
+  },
+  {
+    "abbr": "Kin",
+    "term": "Kinetikang Pantao"
+  },
+  {
+    "abbr": "Kol",
+    "term": "kolokyal"
+  },
+  {
+    "abbr": "Kom",
+    "term": "Komersiyo"
+  },
+  {
+    "abbr": "Lat",
+    "term": "Latin"
+  },
+  {
+    "abbr": "Lgw",
+    "term": "Lingguwistika"
+  },
+  {
+    "abbr": "Lit",
+    "term": "Literatura"
+  },
+  {
+    "abbr": "Mag",
+    "term": "Maguindanao"
+  },
+  {
+    "abbr": "Mal",
+    "term": "Malay"
+  },
+  {
+    "abbr": "Man",
+    "term": "Mangyan"
+  },
+  {
+    "abbr": "Mat",
+    "term": "Matematika"
+  },
+  {
+    "abbr": "Med",
+    "term": "Medesina"
+  },
+  {
+    "abbr": "Mgn",
+    "term": "Mangguangan"
+  },
+  {
+    "abbr": "Mil",
+    "term": "Militar"
+  },
+  {
+    "abbr": "Mit",
+    "term": "Mitolohiya"
+  },
+  {
+    "abbr": "Mmw",
+    "term": "Mamanua"
+  },
+  {
+    "abbr": "Mnd",
+    "term": "Mandaya"
+  },
+  {
+    "abbr": "Mnb",
+    "term": "Manobo"
+  },
+  {
+    "abbr": "Mnb–Agu",
+    "term": "Manobo Agusan"
+  },
+    "abbr": "Mnb-Cot",
+    "term": "Manobo Cotabato"
+  },
+  {
+    "abbr": "Mns",
+    "term": "Mansaka"
+  },
+  {
+    "abbr": "Mrw",
+    "term": "Maranaw"
+  },
+  {
+    "abbr": "Mtl",
+    "term": "Metalurhiya"
+  },
+  {
+    "abbr": "Mtr",
+    "term": "Meteorolohiya"
+  },
+  {
+    "abbr": "Mus",
+    "term": "Musika"
+  },
+  {
+    "abbr": "n g",
+    "term": "ng gabi"
+  },
+  {
+    "abbr": "n h",
+    "term": "ng hapon"
+  },
+  {
+    "abbr": "Nor",
+    "term": "Norse"
+  },
+  {
+    "abbr": "n u",
+    "term": "ng umaga"
+  },
+  {
+    "abbr": "Ntk",
+    "term": "Agham Nautika"
+  },
+  {
+    "abbr": "Pal",
+    "term": "Palawan"
+  },
+  {
+    "abbr": "Pan",
+    "term": "Pangasinan"
+  },
+  {
+    "abbr": "p/mp",
+    "term": "pahina/mga pahina"
+  },
+  {
+    "abbr": "pdd",
+    "term": "padamdam"
+  },
+  {
+    "abbr": "Pil",
+    "term": "Pilosopiya"
+  },
+  {
+    "abbr": "Pis",
+    "term": "Pisika"
+  },
+  {
+    "abbr": "Por",
+    "term": "Portugese"
+  },
+  {
+    "abbr": "pnb",
+    "term": "pang–abay"
+  },
+  {
+    "abbr": "pnd",
+    "term": "pandiwa"
+  },
+  {
+    "abbr": "png",
+    "term": "pangngalan"
+  },
+  {
+    "abbr": "pnh",
+    "term": "panghalip"
+  },
+  {
+    "abbr": "pnk",
+    "term": "pang–angkop"
+  },
+  {
+    "abbr": "pnu",
+    "term": "pang–ukol"
+  },
+  {
+    "abbr": "pnr",
+    "term": "pang–uri"
+  },
+  {
+    "abbr": "pnt",
+    "term": "pangatnig"
+  },
+  {
+    "abbr": "pnl",
+    "term": "panlapi"
+  },
+  {
+    "abbr": "Psl",
+    "term": "Pisyolohiya"
+  },
+  {
+    "abbr": "ptk",
+    "term": "pantukoy"
+  },
+  {
+    "abbr": "San",
+    "term": "Sanskit"
+  },
+  {
+    "abbr": "Say",
+    "term": "Sayaw"
+  },
+  {
+    "abbr": "Sld",
+    "term": "Sulod"
+  },
+  {
+    "abbr": "Seb",
+    "term": "Sebwano"
+  },
+  {
+    "abbr": "Sik",
+    "term": "Sikolohiya"
+  },
+  {
+    "abbr": "Sma",
+    "term": "Samal"
+  },
+  {
+    "abbr": "Snk",
+    "term": "Sanskit"
+  },
+  {
+    "abbr": "Sos",
+    "term": "Sosyolohiya"
+  },
+  {
+    "abbr": "ST",
+    "term": "Sinaunang Tagalog"
+  },
+  {
+    "abbr": "Sub",
+    "term": "Subanon"
+  },
+  {
+    "abbr": "Swa",
+    "term": "Swahili"
+  },
+  {
+    "abbr": "Tag",
+    "term": "Tagalog"
+  },
+  {
+    "abbr": "Tbw",
+    "term": "Tagbanwa"
+  },
+  {
+    "abbr": "Tau",
+    "term": "Tausug"
+  },
+  {
+    "abbr": "Tbo",
+    "term": "Tiboli"
+  },
+  {
+    "abbr": "Teo",
+    "term": "teohohiya"
+  },
+  {
+    "abbr": "Tgk",
+    "term": "Tagakawlo"
+  },
+  {
+    "abbr": "Tin",
+    "term": "Tinggian"
+  },
+  {
+    "abbr": "Tir",
+    "term": "Tiruray"
+  },
+  {
+    "abbr": "Tro",
+    "term": "Teatro"
+  },
+  {
+    "abbr": "Tsi",
+    "term": "Tsino"
+  },
+  {
+    "abbr": "Tua–Dus",
+    "term": "Tuaran Dusun",
+  {
+    "abbr": "var",
+    "term": "varyant"
+  },
+  {
+    "abbr": "War",
+    "term": "Waray"
+  },
+  {
+    "abbr": "Yak",
+    "term": "Yakan"
+  },
+  {
+    "abbr": "Zoo",
+    "term": "Zoolohiya"
+  }
 }
