@@ -383,6 +383,7 @@
     "abbr": "Mnb–Agu",
     "term": "Manobo Agusan"
   },
+  {
     "abbr": "Mnb-Cot",
     "term": "Manobo Cotabato"
   },
@@ -584,7 +585,8 @@
   },
   {
     "abbr": "Tua–Dus",
-    "term": "Tuaran Dusun",
+    "term": "Tuaran Dusun"
+  },
   {
     "abbr": "var",
     "term": "varyant"
