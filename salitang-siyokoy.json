@@ -7,7 +7,7 @@
     },
     {
         "siyokoy": "aspeto",
-        "es": "aspeto",
+        "es": "aspecto",
         "en": "aspect",
         "fil": "aspekto; 1. mukhâ o panig ng isáng bagay 2. tanáw 3. lagáy"
     },
@@ -75,6 +75,12 @@
         "es": "golfo",
         "en": "gulf",
         "fil": "1. malakíng loók 2. agwát"
+    },
+    {
+        "siyokoy": "imahe",
+        "es": "imagen",
+        "en": "image",
+        "fil": "imahen"
     },
     {
         "siyokoy": "intrigero",
